@@ -8,8 +8,8 @@ To design the schematic and PCB layout diagram of an fridge door opening alarm c
 ●	Hardware: Personal Computer (PC)<br>
 ●	Software: Eagle <br>
 
-## PROCEDURE:   
-	Create a New Project:<br>
+## PROCEDURE:
+	Create a New Project:<br>   
 o	Launch EAGLE and start a new project for your PCB design.<br>
 o	Within the project, create a new schematic file.<br>
 	Add Components:<br>
@@ -48,8 +48,14 @@ The output of U1 is supplied to the second 555 timer (U2), which is configured i
 ## EXPECTED OUTPUT:
 
 ### Schematic diagram
- 
+
+ ![WhatsApp Image 2025-11-21 at 21 22 18_9bea5260](https://github.com/user-attachments/assets/64c50b82-0168-4d3c-8d16-7a74ca66b458)
+
+
 ### Layout diagram
- 
+
+ ![WhatsApp Image 2025-11-21 at 21 22 18_fb679d12](https://github.com/user-attachments/assets/7fc76a57-039e-455e-8050-2b759bdb76f3)
+
+
 ## RESULT:
 Thus, the schematic and PCB layout for the fridge door opening alarm circui has been successfully designed using Eagle software.
